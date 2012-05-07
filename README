@@ -1,0 +1,5 @@
+This is a demo project created by maven-gae-plugin. 
+
+This project integrate Google Web Toolkit, Google App Engine and JDO3 together. In my tutorial (See http://www.cherrot.com/2012/04/developing-gae-gwt-project-using-maven-tutorial ) I demonstrate how to integrate JDO2(The default way of GAE).
+
+In this project I use maven-gae-plugin, gwt-maven-plugin, maven-datanucleus-plugin and some other general maven plugins to test, enhance, compile, run, and deploy this project.
